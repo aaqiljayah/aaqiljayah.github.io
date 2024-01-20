@@ -1,92 +1,57 @@
 
 ==================================================================================================
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
+# Portfolio Website
 
-==================================================================================================
+This is a README file for my portfolio. The website showcases my work, skills, and experiences to present myself professionally to potential clients or employers.
 
+## Table of Contents
 
-LICENSE:
-KARDS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
+## Description
 
-Under the following conditions:
+The portfolio website is designed to provide an overview of my professional background, skills, and projects. It serves as a central hub for anyone interested in learning more about me, my experiences, and my work. The website is visually appealing, user-friendly, and optimized for responsiveness across various devices.
 
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
+## Features
 
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
+- **Home Page:** Introduces myself and provides a brief overview of my skills and expertise.
+- **About Page:** Offers a detailed description of my background, achievements, and professional experience.
+- **Resume Page:** Offers a detailed description of my education and experience. 
+- **Blogs Page:** A small blog on my interests and my university life. 
+- **Services Page:** Provides a list of my services for potential clients.
+- **Contact Page:** Provides contact information and a contact form for potential clients or employers to reach out to me. 
 
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
+## Technologies Used
 
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
+- HTML5
+- CSS3
+- JavaScript
+- PHP 
 
+## Installation
+
+To locally run the portfolio website, follow these steps:
+
+1. Clone the repository: `git clone aaqiljayah.github.io`
+2. Navigate to the project directory: `cd portfolio-website`
+3. Open the `index.html` file in your preferred web browser.
+
+## Usage
+
+Upon opening the website, users can navigate through the different sections using the navigation menu. They can explore the projects, learn more about my skills and experiences, and reach out to me through the provided contact form.
+
+## Contributing
+
+Contributions to the portfolio website are welcome but changes are not to be made. If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue in the repository.
 
 -----------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
 
 SOURCES AND CREDITS:
 
@@ -104,6 +69,7 @@ Icons:
 Stock Photos and Graphics:
  - UnSplash.com (http://unsplash.com/)
  - gratisography.com (http://www.gratisography.com/)
+ - APU Beyond Media (https://www.facebook.com/APUBeyondMedia)
  
 Javascript Files:
 
@@ -120,11 +86,8 @@ Javascript Files:
  - pace js (http://github.hubspot.com/pace/) 
  - owl carousel (http://www.owlgraphic.com/owlcarousel/)
 
+Template:
+- KARDS is released under the Creative Commons Attribution 3.0 License
  
 
 --------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
-  
-
