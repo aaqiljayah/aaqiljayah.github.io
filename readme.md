@@ -6,9 +6,9 @@
   <title>Portfolio Website</title>
 </head>
 <body>
-  <h1>Portfolio Website</h1>
+  <h1>Portfolio Website 🌟</h1>
 
-  <h2>Description</h2>
+  <h2>Description 📚</h2>
   <p>This is a README file for my portfolio. The website showcases my work, skills, and experiences to present myself professionally to potential clients or employers.</p>
 
   <h2>Table of Contents</h2>
@@ -22,10 +22,10 @@
     <li><a href="#license">License</a></li>
   </ul>
 
-  <h2 id="description">Description</h2>
+  <h2 id="description">Description 📝</h2>
   <p>The portfolio website is designed to provide an overview of my professional background, skills, and projects. It serves as a central hub for anyone interested in learning more about me, my experiences, and my work. The website is visually appealing, user-friendly, and optimized for responsiveness across various devices.</p>
 
-  <h2 id="features">Features</h2>
+  <h2 id="features">Features ✨</h2>
   <ul>
     <li><strong>Home Page:</strong> Introduces myself and provides a brief overview of my skills and expertise.</li>
     <li><strong>About Page:</strong> Offers a detailed description of my background, achievements, and professional experience.</li>
@@ -35,7 +35,7 @@
     <li><strong>Contact Page:</strong> Provides contact information and a contact form for potential clients or employers to reach out to me.</li>
   </ul>
 
-  <h2 id="technologies-used">Technologies Used</h2>
+  <h2 id="technologies-used">Technologies Used 💻</h2>
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
@@ -43,23 +43,23 @@
     <li>PHP</li>
   </ul>
 
-  <h2 id="installation">Installation</h2>
+  <h2 id="installation">Installation ⚙️</h2>
   <ol>
     <li>Clone the repository: <code>git clone aaqiljayah.github.io</code></li>
     <li>Navigate to the project directory: <code>cd portfolio-website</code></li>
     <li>Open the <code>index.html</code> file in your preferred web browser.</li>
   </ol>
 
-  <h2 id="usage">Usage</h2>
+  <h2 id="usage">Usage 🚀</h2>
   <p>Upon opening the website, users can navigate through the different sections using the navigation menu. They can explore the projects, learn more about my skills and experiences, and reach out to me through the provided contact form.</p>
 
-  <h2 id="contributing">Contributing</h2>
+  <h2 id="contributing">Contributing 🤝</h2>
   <p>Contributions to the portfolio website are welcome but changes are not to be made. If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue in the repository.</p>
 
-  <h2 id="license">License</h2>
+  <h2 id="license">License 📜</h2>
   <p>The portfolio website is released under the Creative Commons Attribution 3.0 License.</p>
 
-  <h2>Sources and Credits</h2>
+  <h2>Sources and Credits 🙏</h2>
   <p>I've used the following resources as listed:</p>
 
   <h3>Fonts:</h3>
